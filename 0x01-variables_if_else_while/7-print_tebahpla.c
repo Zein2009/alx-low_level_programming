@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-/** here we will reverse the counting of the alphabets 
- * return value is zero 0
+/**
+ * main - prints the lowercase alphabet in reverse,
+ * followed by a new line
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
