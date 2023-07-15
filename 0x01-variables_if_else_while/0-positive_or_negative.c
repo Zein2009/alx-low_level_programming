@@ -6,6 +6,7 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
+	/* your code goes there */
 	int n;
 
 	srand(time(0));
