@@ -2,7 +2,7 @@
 
 /**
  * main - Prints numbers between 0 to 9 and letters between a to f
- * return value is zero 0.
+ * Return: Always 0 (Success) 
  */
 int main(void)
 {
