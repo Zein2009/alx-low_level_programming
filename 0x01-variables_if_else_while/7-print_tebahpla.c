@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-int void(main)
-{
-	/* here we will reverse the counting of the alphabets */
 
+/* here we will reverse the counting of the alphabets */
+int main(void)
+{
 	char ch;
 
 	for (ch = 'z'; ch > 'a'; ch--)
