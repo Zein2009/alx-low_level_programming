@@ -2,9 +2,8 @@
 
 /**
  * the main function
- * return is (0) always success
+ * return:  always 0 (Success)
  */
-
 int main(void)
 {
 	char str[] = "\"Programming is like building a multilingual puzzle";
